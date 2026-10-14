@@ -1,0 +1,4 @@
+email,expected,status,details,url,screenshot,video
+karanbhatia@yopmail.com,valid,PASS,Authenticated screen detected after login.,https://ikarkhana-dev.web.app/dashboard/,D:\playwright-test\artifacts\karanbhatia_after.png,D:\playwright-test\artifacts\videos\karanbhatia.webm
+sajal@yopmail.com,valid,PASS,Authenticated screen detected after login.,https://ikarkhana-dev.web.app/dashboard/,D:\playwright-test\artifacts\sajal_after.png,D:\playwright-test\artifacts\videos\sajal.webm
+ananyaverma02@yopmail.com,valid,PASS,Authenticated screen detected after login.,https://ikarkhana-dev.web.app/dashboard/,D:\playwright-test\artifacts\ananyaverma02_after.png,D:\playwright-test\artifacts\videos\ananyaverma02.webm
